@@ -1,3 +1,5 @@
+## Creators: Giatrakis Georgios, Marijke Thijssen, Mariola Ferreras Gutierrez
+
 #!usr/bin/env python3
 """
 Module that contains the functions for the SATAlytics GUI.
