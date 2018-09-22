@@ -1,3 +1,5 @@
+## Creators: Giatrakis Georgios, Marijke Thijssen, Mariola Ferreras Gutierrez
+
 from functools import partial
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.backends.tkagg as tkagg
